@@ -3,3 +3,17 @@ body {
     box-sizing: border-box;
     width: 95%;
 }
+
+header{
+    width: 100%;
+    display: flex;
+}
+
+.container-logo{
+    display: flex;
+}
+
+.nav-container {
+    display: flex;
+    align-items: ;
+}
