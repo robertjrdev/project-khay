@@ -7,13 +7,14 @@ body {
 header{
     width: 100%;
     display: flex;
+    justify-content: space-between;
 }
 
 .container-logo{
     display: flex;
 }
 
-.nav-container {
+.nav-link-container {
     display: flex;
-    align-items: ;
+    
 }
